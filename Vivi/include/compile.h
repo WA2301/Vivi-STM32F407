@@ -1,0 +1,6 @@
+#define UTS_VERSION "#0.1.4 Sat Feb 28 17:29:07 CST 2004"
+#define VIVI_COMPILE_TIME "17:29:07"
+#define VIVI_COMPILE_BY "root"
+#define VIVI_COMPILE_HOST "capbily"
+#define VIVI_COMPILE_DOMAIN ""
+#define VIVI_COMPILER "gcc version 2.95.2 20000516 (release) [Rebel.com]"
